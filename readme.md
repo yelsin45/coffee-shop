@@ -1,14 +1,12 @@
-# Coffee Shop Domain Model
-
-## Overview
+Coffee Shop Domain Model
 Models customers, coffees, and orders for a coffee shop using OOP in Python.
 
-## Structure
+ # Structure
 - `customer.py`, `coffee.py`, `order.py`: Main classes.
 - `debug.py`: Interactive test script.
 - `tests/`: Pytest unit tests.
 
-## Setup
+# Setup
 ```bash
 pipenv install
 pipenv shell
